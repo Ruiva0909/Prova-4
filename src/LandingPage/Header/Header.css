@@ -1,0 +1,9 @@
+.mainheader{
+    background: rgb(46, 0, 54);
+    color: rgb(255, 255, 255);
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+	box-shadow: 0px 3px 15px rgba(121, 111, 111, 0.77);
+}

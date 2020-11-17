@@ -1,0 +1,16 @@
+ul{
+    width: 450px;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 2cm;
+    color: rgb(255, 255, 255); 
+}
+li{
+    color: rgb(255, 255, 255); 
+    list-style-type: none;
+}
+.link{
+    color: rgb(255, 255, 255);  
+    display: flex;
+    justify-content: flex-end;
+}

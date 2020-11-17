@@ -1,0 +1,19 @@
+.redes {
+    background-color: rgb(46, 0, 54);
+    color: rgb(255, 255, 255);  
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0px;
+    padding: 20px;                           
+    width: 100%;
+    display: flex;
+}
+
+.copy{ 
+    color: rgba(8, 8, 8, 0.904);
+    font-size: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-align: center;
+    padding: 1cm;
+}
