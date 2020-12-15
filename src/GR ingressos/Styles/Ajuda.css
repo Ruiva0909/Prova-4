@@ -1,0 +1,46 @@
+.numero{
+    float: left;
+    margin-right: 40px;
+    font-size: 22px;
+    width: 45px;
+    height: 45px;
+    text-align: center;
+    line-height: 45px;
+    border-radius: 50%;
+    border: 1px gray;
+    margin-bottom: 10px;
+    
+}
+h2{
+    margin-left: 20px;
+    font-family: inherit;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+   
+    
+}
+.texto{
+    margin-left: 20px;
+    max-width: 900px;
+    font-size: 15px;
+    line-height: 21px;
+    color: rgba(160, 160, 160, 0.911);
+    
+}
+.text-warning{
+    color: rgba(233, 0, 0, 0.897);
+    padding: 15px;
+}
+.text-error{
+    color: #cd0200;
+    color: rgba(160, 160, 160, 0.911);
+}
+p{
+    color: rgba(160, 160, 160, 0.911);
+}
+.label-label-important {
+    color: rgba(160, 160, 160, 0.911);
+}
+.ajuda{
+    background-color: black;
+}

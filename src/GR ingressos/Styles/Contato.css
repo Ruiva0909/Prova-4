@@ -1,0 +1,39 @@
+.ctt{
+    background-color: black;
+}
+.contato{
+    background-color: black;
+    color: rgba(160, 160, 160, 0.911);
+}
+
+.dados-pessoais{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0.8cm;
+}
+.table-json{
+    margin-top: 10%;
+    color: rgba(160, 160, 160, 0.911);
+    background-color: black;
+}
+.form-nome {
+    color: rgba(160, 160, 160, 0.911);
+    display: flex;
+    justify-content: flex-end;
+    border-radius: 5px;
+}
+.form-email {
+    color: rgba(160, 160, 160, 0.911) ;
+    display: flex;
+    justify-content: center;
+    width: 60%;
+}
+.form-numero {
+    width: 60%;
+}
+
+thead{
+    padding: 2cm;
+}
+   
+

@@ -1,0 +1,22 @@
+ul{
+    width: 450px;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 2cm;
+    color: rgba(160, 160, 160, 0.911);
+}
+li{
+    color: rgba(160, 160, 160, 0.911);
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
+}
+.links{
+    display: flex;
+    justify-content: flex-end;
+    color: rgba(160, 160, 160, 0.911); 
+   
+}
+.ative-link{
+    color:rgba(160, 160, 160, 0.911);
+}

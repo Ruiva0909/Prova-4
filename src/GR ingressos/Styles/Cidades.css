@@ -1,0 +1,8 @@
+.cidade{
+    background-color: black;
+    font-size: 22px;
+    font-family: inherit;
+    display: flex;
+    justify-content: center;
+    color: rgba(160, 160, 160, 0.911);
+}
